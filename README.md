@@ -1,14 +1,10 @@
 # **Project 1 - Finding Lane Lines on the Road** 
 ---
 
-**Finding Lane Lines on the Road**
-
 The goal of this project is to **make a pipeline that finds lane lines on the road**.
 
 
 [//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
 
 [image2]: ./test_images/solidWhiteCurve.jpg "Before"
 [image3]: ./test_images_output/solidWhiteCurve.jpg "After"
